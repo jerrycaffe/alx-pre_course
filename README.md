@@ -1,1 +1,2 @@
-Updating my work though it does not work
+My first readme
+Awesome commit
